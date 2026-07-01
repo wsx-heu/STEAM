@@ -1,2 +1,2 @@
 # STEAM
-This is our code.
+Our code and model weights will be updated subsequently.
